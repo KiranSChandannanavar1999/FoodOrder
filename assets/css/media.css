@@ -1,0 +1,37 @@
+    /* Mobile */
+
+@media  (max-width: 900px) {
+    .container{
+        width: 100%;
+    }
+    nav>ul{
+        display: block;
+        float: right;
+        margin-top: -130px;
+        gap: 20px;
+    }
+    #box{
+        display: block;
+        font-size: 10px;
+        width: 50%;
+    }
+    #box2{
+        position: absolute;
+    }
+    #box3{
+        width: 100%;
+        flex-flow:column;
+    }
+    #button{
+        align-items: center;
+        margin-left: 40px;
+    }
+    
+}
+
+/* Tablet */
+@media(min-width:769px) and (max-width:1200px){
+    .container{
+        width:100%;
+    }
+}

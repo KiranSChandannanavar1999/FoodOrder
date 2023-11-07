@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color:rgb(66, 61, 61);
+    background: url("https://unair.ac.id/wp-content/uploads/2022/04/lily-banse-YHSwy6uqvk-unsplash-768x512.jpg");
+    background-size: contain;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+nav>ul{
+    color: black;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 3px;
+    list-style: none;
+    height: 40px;
+    background-color: white;
+} 
+nav a {
+    text-decoration: none;
+    color: black;
+}
+#logo{
+    margin-left: 100px;
+}
+#img0{
+    height: 20px;
+}
+#img11{
+    height: 20px;
+}
+#box{
+    height: 170px;
+    width: 447px;
+    background: rgb(500, 80, 80, 0.4);
+    margin-top: 150px;
+    margin-left: 55px;
+    color: white;
+}
+ #box h1{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+p{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#box1{
+    background-image:linear-gradient(80deg,#f04fb5,#e6c94c);
+    height: 70px;
+    width: 100%;
+    margin-top: 170px;
+}
+#box3{
+height: 200px;
+width: 200px;
+background-image:linear-gradient(80deg,#f04fb5,#e6c94c);
+width: 100%;
+height: 630px;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+margin-top: -5px;
+}
+#box2{
+background-color: rgb(99, 88, 88);
+}
+#burger{
+width: 230px;
+height: 320px;
+background-color: white;
+border-top-right-radius: 60px;
+border-bottom-left-radius: 50px;
+margin-top: -100px;
+}
+#pizza{
+width: 230px;
+height: 320px;
+background-color: white;
+border-top-right-radius: 60px;
+border-bottom-left-radius: 50px;
+margin-top: -100px;
+}
+#pasta{
+width: 230px;
+height: 320px;
+background-color: white;
+border-top-right-radius: 60px;
+border-bottom-left-radius: 50px;
+margin-top: -100px;
+}
+h2{
+text-align: center;
+margin-top: 60px;
+font-size: 40px;
+color: white;
+letter-spacing: 3px;
+}
+#img1{
+width: 85%;
+height: 200px;
+margin: 15px 5px 15px 10px;
+padding: 5px 5px 5px 5px;
+border-top-right-radius: 50px;
+}
+#content{
+display: flex;
+align-items: center;
+justify-content: center;
+font-weight: bold;
+font-size:18px ;
+margin-top: -15px;
+}
+#text{
+ margin-top: 10px;
+ font-size: 14px;
+ text-align: center;
+ margin-right: 20px;
+}
+#button{
+margin-left: -258px;
+margin-top: 100px;
+padding: 10px;
+border-radius: 30px;
+border: none;
+width: 60%;
+font-size: 18px;
+font-weight: bold;
+background-color: rgba(230, 232, 234, 0.486);
+}
+
